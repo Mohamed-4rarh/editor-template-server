@@ -1,0 +1,111 @@
+{
+  "homePage": {
+    "heroSection": {
+      "tagLine": "New Arrival",
+      "title": "Basic Colours Comeback",
+      "description": "Less is more never out of date. In the last of this years, basic colours will comeback, discover our collections and choose your style",
+      "image": ""
+    },
+    "featuredCollections": {
+      "title": "Featured Collections",
+      "description": "New arrivals, best selling, or any discount programs. Click on any collection that you're looking for",
+      "featuredCards": [
+        {
+          "id": 1,
+          "image": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "text": "Embossed leather, wool & cashmere gloves",
+          "price": "$49"
+        },
+        {
+          "id": 1,
+          "image": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "text": "Embossed leather, wool & cashmere gloves",
+          "price": "$52",
+          "discountedPrice": "$26"
+        },
+        {
+          "id": 1,
+          "image": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "text": "Embossed leather, wool & cashmere gloves",
+          "price": "$49"
+        },
+        {
+          "id": 1,
+          "image": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "text": "Embossed leather, wool & cashmere gloves",
+          "price": "$63",
+          "discountedPrice": "$31"
+        }
+      ]
+    },
+    "companyDetails": {
+      "image": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "THE COMPANY",
+      "subtitle": "With a strong sense of community and a moral responsibility, our brand was born. Our passion for the environment and unique design brought our vision, and products, to life.",
+      "description": "Each product is infused with the elements of aroma, memory, place and beauty traditions from across the globe. These “artifacts” carry with them stories and maps of their discoveries. Always striving to inspire and to be inspired."
+    }
+  },
+  "aboutPage": {
+    "companyDetails": {
+      "companyImage": "https://image.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "companyName": "Company's Name Title",
+      "companyDescription": "Company Description"
+    }
+  },
+  "footer": {
+    "cols": [
+      [
+        {
+          "component": "companyName",
+          "tagName": "h1",
+          "classNames": "font-bold text-black mb-7 text-3xl",
+          "content": "Footer Company Name"
+        },
+        {
+          "component": "companyAddress",
+          "tagName": "p",
+          "classNames": "text-[#666666] my-3",
+          "content": "268 elizabith AVE Str, Dubai, UAE"
+        },
+        {
+          "component": "companyPhone",
+          "tagName": "p",
+          "classNames": "text-[#666666] my-3",
+          "content": "+01 2345 6789"
+        },
+        {
+          "component": "companyEmail",
+          "tagName": "p",
+          "classNames": "text-[#666666] my-3",
+          "content": "companyemail@example.com"
+        }
+      ],
+      [
+        {
+          "component": "companyNewsLetter",
+          "tagName": "h2",
+          "classNames": "font-bold text-black mb-7 text-3xl",
+          "content": "News Letter"
+        },
+        {
+          "component": "companyNewsLetterDescription",
+          "tagName": "p",
+          "classNames": "text-[#666666] mb-3",
+          "content": "Be the first to get the latest news about trends, promotions and much more!"
+        },
+        {
+          "component": "newsletterInput",
+          "tagName": "input",
+          "classNames": "text-[#666666] my-3 border rounded-sm p-1.5",
+          "placeHolder": "Enter your email"
+        },
+        {
+          "component": "newsletterSubmit",
+          "tagName": "p",
+          "classNames": "text-[#fff] py-2 px-4 bg-[#928656] w-fit",
+          "content": "Subscribe"
+        }
+      ]
+    ]
+  }
+}
